@@ -18,7 +18,7 @@ This variation only includes the word on the wordmark.
   <img src="./middle/venera-middle-white.png" width="300" /> 
 </p>
 
-#@ Full Wordmark
+## Full Wordmark
 This is our Wordmark, including our Logo and Word Variations.
 
 <p float="left">
