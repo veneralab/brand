@@ -26,6 +26,14 @@ This is our Wordmark, including our Logo and Word Variations.
   <img src="./wordmarks/venera-white.png" width="300" /> 
 </p>
 
+## Other Brands
+
+### Luna
+
+<p float="left">
+  <img src="./other/luna/luna-transparent.png" width="300" /> 
+</p>
+
 # Full Bundle
 
 Our entire brand bundle is available on our [github page](https://github.com/veneralab/brand).
